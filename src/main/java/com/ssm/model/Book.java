@@ -1,7 +1,6 @@
 package com.ssm.model;
 
 /**
- * Created by viking on 2018/07/08
  * book实体类
  */
 public class Book {

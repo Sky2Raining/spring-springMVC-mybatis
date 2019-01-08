@@ -1,7 +1,6 @@
 package com.ssm.model;
 
 /**
- * created by viking on 2018/07/04
  * user实体类
  */
 

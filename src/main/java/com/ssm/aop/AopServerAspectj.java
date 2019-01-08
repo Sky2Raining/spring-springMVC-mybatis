@@ -9,7 +9,6 @@ import org.springframework.stereotype.Component;
 import java.lang.reflect.Method;
 
 /**
- * created by viking on 2018/07/15
  * aop切面
  */
 @Component

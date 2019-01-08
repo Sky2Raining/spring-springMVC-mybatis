@@ -15,8 +15,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * created by viking on 2018/07/17
- * 测试邮件发送controller
+ * 邮件接口controller
  */
 @RestController
 @RequestMapping("mail")

@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * created by viking on 2018/07/04
  * controller层接口类
  */
 @RestController

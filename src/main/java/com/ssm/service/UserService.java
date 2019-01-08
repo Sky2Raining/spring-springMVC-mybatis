@@ -4,7 +4,6 @@ import com.ssm.model.User;
 
 import java.util.List;
 /**
- * created by viking on 2018/07/04
  * 业务层接口
  */
 public interface UserService {
