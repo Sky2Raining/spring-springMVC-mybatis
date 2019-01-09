@@ -64,18 +64,17 @@
       <servlet-name>springMVC</servlet-name>
       <url-pattern>/</url-pattern>
     </servlet-mapping>
+    <!--需要访问html文件时使用-->
     <servlet-mapping>
         <servlet-name>default</servlet-name>
         <url-pattern>*.html</url-pattern>
     </servlet-mapping>
+    <!--需要访问js文件时使用-->
+    <servlet-mapping>
+        <servlet-name>default</servlet-name>
+        <url-pattern>*.js</url-pattern>
+    </servlet-mapping>
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
     </welcome-file-list>
-
-  <!--需要访问js文件时使用-->
-  <!--<servlet-mapping>-->
-    <!--<servlet-name>default</servlet-name>-->
-    <!--<url-pattern>*.js</url-pattern>-->
-  <!--</servlet-mapping>-->
-
 </web-app>
