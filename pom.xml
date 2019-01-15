@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.skyraining.ssm</groupId>
-  <artifactId>ssm</artifactId>
+  <artifactId>spring-springMVC-mybatis</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>SSMDemo Maven Webapp</name>
+  <name>spring-springMVC-mybatis</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -199,7 +199,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>ssm</finalName>
+    <finalName>spring-springMVC-mybatis</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
